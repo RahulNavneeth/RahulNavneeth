@@ -1,4 +1,4 @@
-<h1 align="center">Hello there I'm &lt;RahulNavneeth&gt;</h1>
+<h1 align="center">Hello there, I'm &lt;RahulNavneeth&gt;</h1>
 <h3 align="center">I do fullstack web-dev with <del>shit</del> ton of passion</h3>
 
 - Learning : **Elixir, Rust**
