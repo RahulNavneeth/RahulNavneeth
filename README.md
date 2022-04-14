@@ -7,7 +7,7 @@
 
 - Reach me @ : **rahulmnavneeth@gmail.com**
 
-- Fun fact : **You think I am most passionate about coding? wait till you hear my nonsensical jokes**
+- Fun fact : **You think I am most passionate about coding? wait till you hear my nonsensical jokes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
