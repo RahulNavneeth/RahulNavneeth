@@ -1,13 +1,13 @@
 <h1 align="center">Hello there I'm &lt;RahulNavneeth&gt;</h1>
 <h3 align="center">I do fullstack web-dev with <del>shit</del> ton of passion</h3>
 
-- I’m currently learning **Elixir, Rust**
+- I’m currently learning : **Elixir, Rust**
 
-- Ask me anything **Svelte, Express, NodeJs, React, Prisma, TypeScript and more..**
+- Ask me anything : **Svelte, Express, NodeJs, React, Prisma, TypeScript and more..**
 
-- How to reach me **rahulmnavneeth@gmail.com**
+- How to reach me : **rahulmnavneeth@gmail.com**
 
-- Fun fact **You think I am most passionate about coding? wait till you hear my nonsensical jokes**
+- Fun fact : **You think I am most passionate about coding? wait till you hear my nonsensical jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
