@@ -14,7 +14,6 @@
 <a href="https://dev.to/rahulnavneeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0rahulnavneeth0" height="30" width="40" /></a>
 <a href="https://twitter.com/rahulnavneeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulnavneeth" height="30" width="40" /></a>
 <a href="https://codesandbox.com/rahulnavneeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rahulnavneeth" height="30" width="40" /></a>
-<a href="https://www.behance.net/rahulnavneeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rahulnavneeth" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCFA_E8sSWzDYInH3V-NYBnQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahulnavneeth" height="30" width="40" /></a>
 </p>
 
