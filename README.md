@@ -3,7 +3,7 @@
 
 - Learning : **Elixir, Rust**
 
-- Stuff Iam great involving : **Svelte, Express, NodeJs, React, Prisma, TypeScript and more..**
+- Stuff Iam great involving : **Svelte, NestJs, Express, NodeJs, React, Prisma, TypeScript and more..**
 
 - Reach me @ : **rahulmnavneeth@gmail.com**
 
